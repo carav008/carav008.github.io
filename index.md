@@ -43,7 +43,3 @@ Currently attending the Univerisity of Minnesota Morris in my last year, due to 
 
 
 _I know Java, JavaScript, and Bash. In addition my analytical skills include working with software/languages using R, RStudio and Mathematica and Python(beginner)._
-
-![_config.yaml](/resources/profilePic.jpg)
-
-
