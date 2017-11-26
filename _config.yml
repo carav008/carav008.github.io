@@ -2,7 +2,17 @@ theme: jekyll-theme-architect
 title: Brian D. Caravantes Hernandez 
 description: Software Developer
 
-avatar: https://raw.githubusercontent.com/carav008/carav008.github.io/master/resources/profilePic.jpg
-
-github: carav008
-linkedin: brian-caravantes-793378b8
+footer-links:
+  dribbble:
+  email: carav008@morris.umn.edu
+  facebook:
+  flickr:
+  github: carav008
+  instagram:
+  linkedin: brian-caravantes-793378b8
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
