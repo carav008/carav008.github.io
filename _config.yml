@@ -1,10 +1,8 @@
-
+theme: jekyll-theme-architect
 title: Brian D. Caravantes Hernandez 
 description: Software Developer
 
 avatar: https://raw.githubusercontent.com/carav008/carav008.github.io/master/resources/profilePic.jpg
 
-footer-links:
- github: carav008
- linkedin: brian-caravantes-793378b8
-
+github: carav008
+linkedin: brian-caravantes-793378b8
